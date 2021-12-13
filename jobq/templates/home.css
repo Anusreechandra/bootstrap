@@ -1,0 +1,15 @@
+.navbar-nav-right 
+{
+    float: right;
+  }
+  .container
+  {
+    position:absolute;
+    right: 0;
+    margin: 20px;
+    max-width: 300px;
+    padding: 16px;
+    top: 800px;
+    background-color: rgb(119, 185, 240)
+  }
+  
